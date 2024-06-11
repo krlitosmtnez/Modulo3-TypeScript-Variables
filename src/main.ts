@@ -37,7 +37,7 @@ const grupoC : Artistas = {
 const grupoD : Artistas = {
     
     grupo: "Ludwig van Beethoven",
-    fundacion: 1962,
+    fundacion: 1770,
     activo: false,
     genero: clasica,
 };
