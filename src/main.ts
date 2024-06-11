@@ -9,7 +9,7 @@ const pop = "🎵 Pop Rock";
 const rock = "🎸 Rock";
 const hrock = "🤘 Hard Rock";
 const clasica = "🎼 Clásica";
-const estiloGrupo = "color: green; font-size:18px; font-weight:bold;";
+const estiloGrupo = "background: green; font-size:18px; font-weight:bold;";
 
 const grupoA : Artistas = {
     grupo: "The Beatles",
